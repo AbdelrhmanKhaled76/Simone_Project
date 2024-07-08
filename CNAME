@@ -1,1 +1,4 @@
-ab76site.com
+Name: www
+Type: CNAME
+Value: ab76.github.io
+TTL: 3600
